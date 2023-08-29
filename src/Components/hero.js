@@ -24,7 +24,7 @@ export default function Hero(){
       />
         
         <ReactTypingEffect
-                text={["developer", "security enthusiast", "n artist", "n explorer", "learner"]}
+                text={[" developer", " security enthusiast", "n artist", "n explorer", "learner"]}
                 speed={100}
                 typingDelay={1000}
                 eraseDelay={1000}
